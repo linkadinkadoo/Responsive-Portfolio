@@ -2,6 +2,10 @@
 	width: 960px;
 }
 
+a {
+	text-decoration: none;
+}
+
 #top {
 	width: 100%;
 	margin: 0px;
